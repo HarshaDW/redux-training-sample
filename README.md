@@ -9,3 +9,14 @@ This uses fetch to get json data from https://jsonplaceholder.typicode.com which
 Also app uses Redux structure. This illustrates two action types. One is to fetch the data and to create new data upon button submit.
 
 Please note project does contain default files that came with using create-react-app.
+
+
+Run
+
+npm i
+
+Start server
+
+npm start
+
+which will open the app on port 3000
